@@ -1,0 +1,3 @@
+# dependcies list 
+pip install facenet-pytorch==2.5.2
+
